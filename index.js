@@ -1,7 +1,7 @@
 'use strict';
 
 /**
-  * The entry point.
+  * The entry point...
   *
   * @module Sequelize
   */
